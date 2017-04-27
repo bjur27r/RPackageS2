@@ -1,0 +1,1 @@
+Este repositorio contiene  un sencillo egercicio para la creación de paquetes en CRAN
